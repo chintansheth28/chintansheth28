@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ...
     - Advanced techniques in TensorFlow and PyTorch
     - Enhancing my skills in AWS and other cloud platforms
-    - Next.js & TailwindCCSS for building interactive web applications
+    - Next.js & Tailwind CSS for building interactive web applications
 
 - 💞️ I’m looking to collaborate on ...
     - Open-source data science projects
