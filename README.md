@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @chintansheth28
 
+- 🎓 I hold a Bachelor's Degree in Computer Science from the University of Virginia.
+
+🔧 My skill set includes Python, R, SQL, Java, data visualization (Tableau, Power BI), cloud technologies (AWS), and Scrum & Agile methodologies.
+
 - 👀 I’m interested in ...
     - Data Analysis & Visualization
     - Software Development
