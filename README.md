@@ -25,7 +25,6 @@
 - 📫 How to reach me ...
     - Email: chintan.sheth1998@gmail.com
     - LinkedIn: linkedin.com/in/chintan-s
-    - GitHub: github.com/chintansheth28
 
 - 😄 Pronouns: He/Him
 
